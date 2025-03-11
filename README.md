@@ -38,8 +38,12 @@ This repository aims to provide pre-configured VS Code profiles (code-profile fi
 ```
 VS-Code-meets-ZHAW/
 ├── profiles/
-│   └── default/
-│       ├── default.code-profile
+│   ├── default/
+│   │   ├── default.code-profile
+│   │   └── README.md
+│   └── latex/
+│       ├── latex.code-profile
+│       ├── INSTALLATION.md
 │       └── README.md
 └── README.md
 ```
