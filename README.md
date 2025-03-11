@@ -1,5 +1,7 @@
 # VS Code meets ZHAW
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 This repository aims to provide pre-configured VS Code profiles (code-profile files) and setup instructions tailored for students at ZHAW (Zürcher Hochschule für Angewandte Wissenschaften). By using these profiles, you can quickly set up your VS Code environment with relevant extensions for various courses and projects.
 
 ## Purpose
@@ -49,7 +51,3 @@ VS-Code-meets-ZHAW/
 ## Disclaimer
 
 These profiles are provided as a convenience and may not cover all possible use cases. Use them at your own discretion.
-
-## License
-
-[MIT License](LICENSE) (Add a LICENSE file if you want to specify a license)
