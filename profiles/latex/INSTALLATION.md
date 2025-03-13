@@ -29,6 +29,20 @@ This document provides instructions on how to install and configure the LaTeX VS
         * In the settings step of the installation, change the setting "Install missing packages" to yes.
     * If MiKTeX notifies you about available updates, install them using the MiKTeX executable that has been installed. If you having issues during updating google is you friend.
 
+4. **Install perl**
+    The LaTeX extension also requires a version of perl to be installed. The process of installing perl varies by operating system, so 
+
+    4.1 **Linux (apt as package manager)**
+       * Open a terminal
+       * Update package repositories by running `sudo apt update`
+       * Install perl by running `sudo apt install perl`
+       * You should now be able to check your perl version by running `perl -v`
+
+    4.2 **Windows**
+        * Open your browser and navigate to the [Strawberry Perl download page](https://strawberryperl.com/) and download the msi installer.
+        * After downloading, execute the installer and follow its instructions to install Strawberry Perl.
+        * After the installer finishes, perl is now installed on your system. You can check that by opening a terminal and running `perl -v`.
+        
 ## Disclaimer
 
 This profile is provided as a starting point. Customization is encouraged to fit specific needs.
