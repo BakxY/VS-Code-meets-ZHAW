@@ -33,15 +33,17 @@ This document provides instructions on how to install and configure the LaTeX VS
     The LaTeX extension also requires a version of perl to be installed. The process of installing perl varies by operating system, so
 
     4.1 **Linux (apt as package manager)**
-        * Open a terminal.
-        * Update package repositories by running `sudo apt update`
-        * Install perl by running `sudo apt install perl`
-        * You should now be able to check your perl version by running `perl -v`
+
+    * Open a terminal.
+    * Update package repositories by running `sudo apt update`
+    * Install perl by running `sudo apt install perl`
+    * You should now be able to check your perl version by running `perl -v`
 
     4.2 **Windows**
-        * Open your browser and navigate to the [Strawberry Perl download page](https://strawberryperl.com/) and download the msi installer.
-        * After downloading, execute the installer and follow its instructions to install Strawberry Perl.
-        * After the installer finishes, perl is now installed on your system. You can check that by opening a terminal and running `perl -v`.
+    
+    * Open your browser and navigate to the [Strawberry Perl download page](https://strawberryperl.com/) and download the msi installer.
+    * After downloading, execute the installer and follow its instructions to install Strawberry Perl.
+    * After the installer finishes, perl is now installed on your system. You can check that by opening a terminal and running `perl -v`.
 
 ## Disclaimer
 
