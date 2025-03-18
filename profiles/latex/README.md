@@ -15,6 +15,10 @@ The following extensions are included in this profile:
 * **LaTeX Utilities:** An add-on to LaTeX Workshop that provides additional features.
 * **LaTeX Workshop:** Boost LaTeX typesetting efficiency with preview, compile, and more.
 
+## File Templates
+
+There are some templates provided to use as a base. The template provided has some information already filled in to be used at ZHAW. You can find those in the `Template` folder.
+
 ## Disclaimer
 
 This profile is provided as a starting point. Customization is encouraged to fit specific needs.
