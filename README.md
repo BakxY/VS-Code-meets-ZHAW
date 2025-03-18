@@ -42,6 +42,7 @@ VS-Code-meets-ZHAW/
 │   │   ├── default.code-profile
 │   │   └── README.md
 │   └── latex/
+│       ├── template/
 │       ├── latex.code-profile
 │       ├── INSTALLATION.md
 │       └── README.md
