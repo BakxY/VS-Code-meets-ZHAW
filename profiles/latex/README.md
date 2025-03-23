@@ -8,7 +8,6 @@ The following extensions are included in this profile:
 
 * **Better Comments:** Improve code comments with color-coding and categorization.
 * **Code Spell Checker:** Checks spelling in code and markup files.
-* **Easy icon theme:** A simple icon pack, made to be easy to distinguish different file types.
 * **file-icons:** Adds file-specific icons to the VS Code file explorer.
 * **German - Code Spell Checker:** German dictionary extension for VS Code.
 * **Git History:** View and search Git history directly within VS Code.
