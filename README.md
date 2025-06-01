@@ -33,22 +33,6 @@ This repository aims to provide pre-configured VS Code profiles (code-profile fi
 4.  **Follow Profile-Specific Instructions:**
     * Refer to the `README.md` file within the chosen profile directory for any additional setup instructions or configurations.
 
-## Profile Structure
-
-```
-VS-Code-meets-ZHAW/
-├── profiles/
-│   ├── default/
-│   │   ├── default.code-profile
-│   │   └── README.md
-│   └── latex/
-│       ├── template/
-│       ├── latex.code-profile
-│       ├── INSTALLATION.md
-│       └── README.md
-└── README.md
-```
-
 ## Disclaimer
 
 These profiles are provided as a convenience and may not cover all possible use cases. Use them at your own discretion.
