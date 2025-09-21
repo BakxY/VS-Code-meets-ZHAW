@@ -1,0 +1,66 @@
+[
+    {
+        "identifier": {
+            "id": "aaron-bond.better-comments",
+            "uuid": "7a0110bb-231a-4598-aa1b-0769ea46d28b"
+        },
+        "displayName": "Better Comments",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "donjayamanne.githistory",
+            "uuid": "5960f38e-0bbe-4644-8f9c-9c8824e82511"
+        },
+        "displayName": "Git History",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "file-icons.file-icons",
+            "uuid": "43335a8d-5929-408b-874a-65f08362642c"
+        },
+        "displayName": "file-icons",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "james-yu.latex-workshop",
+            "uuid": "61d03280-3919-4dd1-bce1-178ca21fdeaf"
+        },
+        "displayName": "LaTeX Workshop",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "jamesmaj.easy-icons",
+            "uuid": "ffc5b1ef-b383-414d-a362-0886a529251f"
+        },
+        "displayName": "Easy icon theme",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "streetsidesoftware.code-spell-checker",
+            "uuid": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7"
+        },
+        "displayName": "Code Spell Checker",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "streetsidesoftware.code-spell-checker-german",
+            "uuid": "911799f7-d784-4bdc-982b-f78afd435187"
+        },
+        "displayName": "German - Code Spell Checker",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "tecosaur.latex-utilities",
+            "uuid": "e12d8c6b-8d86-4f35-99dc-98aa87a06182"
+        },
+        "displayName": "LaTeX Utilities",
+        "applicationScoped": false
+    }
+]
