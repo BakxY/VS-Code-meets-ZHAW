@@ -20,9 +20,8 @@ This repository aims to provide pre-configured VS Code profiles (code-profile fi
     ```
 
 2.  **Choose a Profile:**
-    * Navigate to the `profiles/` directory to find available profiles.
-    * Each profile will be a `.code-profile` file.
-    * Each profile directory will also contain a `README.md` file with specific instructions.
+    * Find the `.code-profile` for the profile you want to import.
+    * Each profile directory will also contain a `README.md` file with a brief overview of the profile.
 
 3.  **Import the Profile:**
     * Open VS Code.
@@ -31,7 +30,7 @@ This repository aims to provide pre-configured VS Code profiles (code-profile fi
     * VS Code will then import the profile, including extensions and settings.
 
 4.  **Follow Profile-Specific Instructions:**
-    * Refer to the `README.md` file within the chosen profile directory for any additional setup instructions or configurations.
+    * Refer to the `INSTALL.md` file within the chosen profile directory for any additional setup instructions or configurations.
 
 ## Disclaimer
 
