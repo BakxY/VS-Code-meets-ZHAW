@@ -1,0 +1,67 @@
+[
+    {
+        "identifier": {
+            "id": "aaron-bond.better-comments",
+            "uuid": "7a0110bb-231a-4598-aa1b-0769ea46d28b"
+        },
+        "displayName": "Better Comments",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "donjayamanne.githistory",
+            "uuid": "5960f38e-0bbe-4644-8f9c-9c8824e82511"
+        },
+        "displayName": "Git History",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "dustypomerleau.rust-syntax",
+            "uuid": "235e8b64-5222-49db-978c-cb45e727cd14"
+        },
+        "displayName": "Rust Syntax",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "file-icons.file-icons",
+            "uuid": "43335a8d-5929-408b-874a-65f08362642c"
+        },
+        "displayName": "file-icons",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "fill-labs.dependi",
+            "uuid": "456278dd-7f50-4cbe-8314-ab06540c1057"
+        },
+        "displayName": "Dependi",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "rust-lang.rust-analyzer",
+            "uuid": "06574cb4-e5dc-4631-8174-a543a4533621"
+        },
+        "displayName": "rust-analyzer",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "streetsidesoftware.code-spell-checker",
+            "uuid": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7"
+        },
+        "displayName": "Code Spell Checker",
+        "applicationScoped": false
+    },
+    {
+        "identifier": {
+            "id": "vadimcn.vscode-lldb",
+            "uuid": "bee31e34-a44b-4a76-9ec2-e9fd1439a0f6"
+        },
+        "displayName": "CodeLLDB",
+        "version": "1.11.4",
+        "applicationScoped": false
+    }
+]

@@ -48,7 +48,7 @@ async function main()
         const profile = profile_dirs[index];
 
         const metadata_path = path.join(profile, "metadata.json");
-        const extensions_path = path.join(profile, "extensions.json")
+        const extensions_path = path.join(profile, "extensions.json");
 
         /** Read custom profile description files. */
         const profile_metadata = await read_json_file(metadata_path);
